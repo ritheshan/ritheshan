@@ -4,11 +4,12 @@
   <h3 align="center">A passionate developer from India 🇮🇳 </h3>
  
   
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&width=500&lines=Building+Secure+%26+Scalable+Web+Apps;Exploring+Generative+AI+%26+Blockchain;Full-Stack+Development+with+MERN;Code%2C+Secure%2C+Innovate!" alt="Typing SVG" />
+   <div align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&width=500&lines=Building+Secure+%26+Scalable+Web+Apps;Exploring+Generative+AI+%26+Blockchain;Full-Stack+Development+with+MERN;Code%2C+Secure%2C+Innovate!" alt="Typing SVG" />
 </div>
 
   <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
 </div>
 
 ### 🚀 About Me
