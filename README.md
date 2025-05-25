@@ -24,7 +24,7 @@
 
 - 💬 **Ask me about:** Full-Stack Development, MERN Stack, System Design, or anything tech!
 
-- 📄 **Check out my resume here:** [My Resume]([https://your-link-to-resume.pdf](https://drive.google.com/file/d/1ekyiTxVWg70wdO4eU0Emi8Kec3G48Vl0/view?usp=sharing))
+- 📄 **Check out my resume here:** [My Resume](https://drive.google.com/file/d/1ekyiTxVWg70wdO4eU0Emi8Kec3G48Vl0/view?usp=sharing)
 
 - 📫 **Reach me:** [ritheshan18@gmail.com](mailto:ritheshan18@gmail.com)
 
