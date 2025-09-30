@@ -18,7 +18,7 @@
 - 👯 **Looking to Collaborate On:** Open-source projects related to Web3 and Cybersecurity.
 - 🤔 **Exploring:** Distributed Systems, Generative AI, and Blockchain applications.
 - 💬 **Ask me about:** Full-Stack Development, MERN Stack, System Design, or anything tech!
-- 📫 **Reach me:** [ritheshanbgl@gmail.com](mailto:ritheshanbgl@gmail.com)
+- 📫 **Reach me:** [ritheshanbgl@gmail.com](mailto:ritheshan18@gmail.com)
 - ⚡ **Fun fact:** I see every bug as a surprise feature waiting for a creative explanation.
 
 ---
