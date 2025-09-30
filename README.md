@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Hey There! I'm Rithesh N 👋</h1>
+  <h1> I'm Rithesh N 👋</h1>
 
   <h3 align="center">A passionate developer from India 🇮🇳 </h3>
  
@@ -24,7 +24,7 @@
 
 - 💬 **Ask me about:** Full-Stack Development, MERN Stack, System Design, or anything tech!
 
-- 📄 **Check out my resume here:** [My Resume](https://drive.google.com/file/d/1ekyiTxVWg70wdO4eU0Emi8Kec3G48Vl0/view?usp=sharing)
+- 📄 **Check out my resume here:** [My Resume](https://drive.google.com/file/d/1uwkF0zdAz85Jd0FHhBd1rs01PyYrfeNU/view?usp=sharing)
 
 - 📫 **Reach me:** [ritheshan18@gmail.com](mailto:ritheshan18@gmail.com)
 
