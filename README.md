@@ -1,7 +1,7 @@
 <div align="center">
   <h1>Hey There! I'm Rithesh N 👋</h1>
 
-  <h3>Full-Stack Developer | Cybersecurity Enthusiast | Innovator</h3>
+  <h3 align="center">A passionate developer from India 🇮🇳 </h3>
  
   
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&width=500&lines=Building+Secure+%26+Scalable+Web+Apps;Exploring+Generative+AI+%26+Blockchain;Full-Stack+Development+with+MERN;Code%2C+Secure%2C+Innovate!" alt="Typing SVG" />
@@ -14,11 +14,17 @@
 ### 🚀 About Me
 
 - 🔭 **Currently Working On:** Enhancing my skills in building large-scale, secure applications.
+
 - 🌱 **Learning:** Advanced Cybersecurity techniques, Large-Scale System Design, and Microsoft Azure.
+
 - 👯 **Looking to Collaborate On:** Open-source projects related to Web3 and Cybersecurity.
+
 - 🤔 **Exploring:** Distributed Systems, Generative AI, and Blockchain applications.
+
 - 💬 **Ask me about:** Full-Stack Development, MERN Stack, System Design, or anything tech!
+
 - 📫 **Reach me:** [ritheshan18@gmail.com](mailto:ritheshan18@gmail.com)
+
 - ⚡ **Fun fact:** I see every bug as a surprise feature waiting for a creative explanation.
 
 ---
@@ -68,6 +74,10 @@
   <img src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure"/>
   <img src="https://img.shields.io/badge/Artificial_Intelligence-44939B?style=for-the-badge" alt="AI"/>
   <img src="https://img.shields.io/badge/Cybersecurity-000000?style=for-the-badge" alt="Cybersecurity"/>
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel"/>
+  <img src="https://img.shields.io/badge/Render-3D58B1?style=for-the-badge&logo=render&logoColor=white" alt="Render"/>
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
 </p>
 
 </div>
