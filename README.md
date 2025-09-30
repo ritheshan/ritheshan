@@ -119,3 +119,8 @@
 </div>
 
 <h3 align="center">I see every bug as a surprise feature waiting for a creative explanation</h3>
+<div align="center">
+  <a href="https://www.buymeacoffee.com/ritheshan">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="rithesh" />
+  </a>
+</div>
