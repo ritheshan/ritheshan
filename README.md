@@ -1,5 +1,7 @@
+ <img src="https://komarev.com/ghpvc/?username=ritheshan&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  
 <div align="center">
-  <h1> I'm Rithesh N 👋</h1>
+  <h1>Hello 👋, I'm Rithesh N </h1>
 
   <h3 align="center">A passionate developer from India 🇮🇳 </h3>
  
@@ -115,8 +117,7 @@
   
   <p><i>"Striving to build solutions that are not only functional but also secure and scalable."</i></p>
   
-  <img src="https://komarev.com/ghpvc/?username=ritheshan&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-  
+ 
   <h3>⭐ Feel free to explore my repositories and connect with me! ⭐</h3>
 </div>
 
