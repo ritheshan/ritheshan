@@ -102,14 +102,6 @@
 
 ---
 
-### 📊 GitHub Analytics
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ritheshan&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ritheshan&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
-  <br>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=ritheshan&theme=blue-green&hide_border=true" alt="GitHub Streak" />
-</div>
 
 
 <div align="center">
