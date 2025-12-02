@@ -1,7 +1,8 @@
 ![banner](./assets/github_banner.jpeg)
 
-<h1 align="center"><code>>_ Rithesh N</code></h1>
-
+<div align="left">
+  <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=ff4500&text=>_%20Rithesh%20N&height=150&fontSize=70&fontAlign=24&fontAlignY=50&font=fira_code&color=ff2200" />
+</div>
 I'm Rithesh N, a passionate developer from India 🇮🇳. I am dedicated to building scalable and secure applications, with a strong focus on Full-Stack Development, Generative AI, and Blockchain. I strive to create impactful, user-focused solutions that address real-world challenges.
 
 - 🌏 My website - [www.rithesh.engineer](https://www.rithesh.engineer)
