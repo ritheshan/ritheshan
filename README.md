@@ -10,7 +10,7 @@ I'm Rithesh N, a passionate developer from India 🇮🇳. I am dedicated to bui
 - 🧠 I’m currently learning DevSecOps & AI/ML.
 - 👾 I’m looking to contribute on Open Source projects.
 - ⏩ Ask me about WebDev, System Design, or anything tech!
-- 🍃 Check out my resume here: [My Resume](https://drive.google.com/file/d/1qOFkGCBQEZzXyVVruDw3Ca0A8072-Dsq/view?usp=sharing)
+- 🍃 Check out my resume here: [My Resume](https://drive.google.com/file/d/1Wunixf4dR29pJ6lyAiRhghVS72s3SVTp/view?usp=sharing)
 - 🍁 **Connect with me:** [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:ritheshanbgl@gmail.com)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ritheshan)  [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black)](https://leetcode.com/rithesh_n)
 
 ## 📈 Stats ~ <img src="https://komarev.com/ghpvc/?username=ritheshan&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
